@@ -1,7 +1,7 @@
 # Building a Web Scrapper using Python
 
 ## Description
-Using Python to scrape and generate CSV files. There are two parts to this project. 
+Using Python to scrape prices and generate CSV files. There are two parts to this project. 
 
 ## Part 1: Stanley Cup Scraper
 Stanley Cups are the hottest craze right now. The 40 oz sippy cup racked up $750 million in just one year. I wanted to track the prices of Stanley Cups on Amazon. Using Python, I built a price scraper for Stanley Cups. I utilized the BeautifulSoup library and created a function to automate this process. 
